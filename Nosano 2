@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+  <head>
+    <title>CodeMirror: User Manual</title>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Sans:bold"/>
+<h1><span class="logo-braces">{ }</span> <a href="http://codemirror.net/">CodeMirror</a></h1>
+
+<pre class="grey">
